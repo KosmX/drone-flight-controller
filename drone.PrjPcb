@@ -49,6 +49,74 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=lib\usbc.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FSYQFJAG
+
+[Document2]
+DocumentPath=lib\usbc.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZEHPKNAU
+
+[Document3]
+DocumentPath=lib\connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MDJQIUST
+
+[Document4]
+DocumentPath=lib\connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBXNHHJN
+
+[Document5]
 DocumentPath=lib\Components - 01.05.23 - 17.22.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXDFNGHR
 
-[Document2]
+[Document6]
 DocumentPath=lib\Components - 01.05.23 - 17.22.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWBWODSW
 
-[Document3]
+[Document7]
 DocumentPath=lib\STM32F423VHT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOIRHZHI
 
-[Document4]
+[Document8]
 DocumentPath=lib\STM32F423VHT6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITPXGTSX
 
-[Document5]
+[Document9]
 DocumentPath=lib\hallglib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXNMYUCG
 
-[Document6]
+[Document10]
 DocumentPath=io.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +218,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROUEGUPO
 
-[Document7]
+[Document11]
+DocumentPath=io2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LGDIFGMF
+
+[Document12]
 DocumentPath=lib\hallglib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJQNKJIS
 
-[Document8]
+[Document13]
 DocumentPath=droneLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NALEJBGZ
 
-[Document9]
+[Document14]
 DocumentPath=droneLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXQREBNL
 
-[Document10]
+[Document15]
 DocumentPath=lib\LMZM23600SILT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWLDUHNL
 
-[Document11]
+[Document16]
 DocumentPath=lib\LMZM23600V3SILR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADQWQVTY
 
-[Document12]
+[Document17]
 DocumentPath=lib\LMZM23600V5SILR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BEOULFKI
 
-[Document13]
+[Document18]
 DocumentPath=lib\LMZM23601V5SILR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOXEROVP
 
-[Document14]
+[Document19]
 DocumentPath=lib\powah.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,23 +370,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEPNULBP
-
-[Document15]
-DocumentPath=Sheet3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LGDIFGMF
 
 [Configuration1]
 Name=Sources
