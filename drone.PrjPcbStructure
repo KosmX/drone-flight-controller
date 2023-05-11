@@ -1,3 +1,6 @@
-Record=TopLevelDocument|FileName=io.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=io.SchDoc|FileName=io2.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=io.SchDoc|FileName=powah.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=ESC_and_USB.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ESC_and_USB.SchDoc|FileName=GPIO.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ESC_and_USB.SchDoc|FileName=io2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ESC_and_USB.SchDoc|FileName=io.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ESC_and_USB.SchDoc|FileName=on-board_sensors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ESC_and_USB.SchDoc|FileName=powah.SchDoc|SheetNumber=3
