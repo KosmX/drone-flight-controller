@@ -1,1 +1,2 @@
 CAN=TX,RX
+I2C=SCL,SDA
