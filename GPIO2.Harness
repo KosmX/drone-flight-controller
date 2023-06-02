@@ -1,1 +1,1 @@
-UART=RX,TX
+UART=TX,RX
